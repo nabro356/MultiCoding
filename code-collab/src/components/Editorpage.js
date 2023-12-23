@@ -96,7 +96,7 @@ const Editorpage = () => {
         <div className="asideInner">
           <div className="logo">
             <img className='logoImage' style={{ height: '40px', width: '40px' }} src={logo} alt="logo" />
-            <h3 style={{ color: 'rgb(231 11 56 / 78%)', paddingTop: '8px', paddingLeft: '10px', fontWeight: '800' }}>Code-Collab</h3>
+            <h3 style={{ color: 'yellow', paddingTop: '8px', paddingLeft: '10px', fontWeight: '800' }}>Multi-Coding</h3>
           </div>
           <h5 style={{ paddingTop: '1.5rem', paddingBottom: '0.8rem' }}>Connected</h5>
           <div className='clientsList'>
