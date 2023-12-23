@@ -42,12 +42,12 @@ const Home = () => {
     }, [username])
 
     return (
-        <div style={{ backgroundColor: '#1e1e1f', display: 'flex', justifyContent: 'center' }}>
+        <div style={{ backgroundColor: 'darkgreen', display: 'flex', justifyContent: 'center' }}>
             <Card style={{ width: '18rem', marginTop: '25vh' }}>
                 <div style={{ display: 'flex' }}>
 
                     <Card.Img variant="top" style={{ height: '40px', width: '45px', paddingLeft: '10px', paddingTop: '5px' }} src={logo} />
-                    <h3 style={{ paddingTop: '9px', paddingLeft: '18px', color: '#E70B38', fontFamily: '\'Baloo Bhaijaan 2\' , cursive', fontWeight: '800' }}>Code-Collab</h3>
+                    <h3 style={{ paddingTop: '9px', paddingLeft: '18px', color: 'yellow', fontFamily: '\'Baloo Bhaijaan 2\' , cursive', fontWeight: '800' }}>Multi-Coding</h3>
                 </div>
                 <Card.Body>
 
