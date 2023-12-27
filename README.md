@@ -9,5 +9,7 @@ Multi-Coding is a unique web application in which multiple users can code and bu
 4. OpenAI Bot for help in coding (in process)</br>
 
 <h3>Interface :</h3>
-[image](https://github.com/nabro356/SocketCode/assets/112922661/2f3139a7-3112-4131-99ce-dc05315fc344)
+<p align="center">
+  <img src="https://github.com/nabro356/SocketCode/assets/112922661/2f3139a7-3112-4131-99ce-dc05315fc344" width="350">
+</p>
 
